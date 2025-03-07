@@ -8,9 +8,9 @@
 </div>
 
 <div align="center">
-  <img height="260px" src="https://github-readme-stats.vercel.app/api?username=vsh51&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="GitHub Stats"/>
-  <img height="260px" src="https://leetcard.jacoblin.cool/vsh51?font=Karma&ext=activity" alt="LeetCode Stats"/>
-  <img height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsh51&layout=donut-vertical" alt="GitHubLang Stats"/>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=vsh51&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="GitHub Stats"/>
+  <img height="250px" src="https://leetcard.jacoblin.cool/vsh51?font=Karma&ext=activity" alt="LeetCode Stats"/>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsh51&layout=donut-vertical" alt="GitHubLang Stats"/>
 </div>
 
 <div>
