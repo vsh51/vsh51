@@ -1,12 +1,9 @@
 <div>
-  <h1 align='center'> Hello! I'm Volodymyr (vsh51) 🗽⃢⃢🗿 </h1>
+  <h1 align='center'>Hey there! I'm <a href="https://github.com/vsh51/vsh51">Volodymyr</a> ⏳</h1>
   <h5 align="center" style="font-size: 12px;"><i>Student at Ivan Franko National University of Lviv</i></h5>
 </div>
 
-<div>
-  <h2>🐱‍👤 Stats </h2>
-</div>
-
+<h2>🐱‍👤 Stats </h2>
 <div align="center">
   <img width="650px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsh51" alt="GitHub Stats"/>
   </br>
@@ -19,9 +16,7 @@
   <img width="650px" src="https://leetcard.jacoblin.cool/vsh51?font=Karma" alt="LeetCode Stats"/>
 </div>
 
-<div>
-  <h2>🗃️ Technologies </h2>
-</div>
+<h2>🗃️ Technologies </h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
