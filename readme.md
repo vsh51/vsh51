@@ -3,7 +3,7 @@
   <h5 align="center" style="font-size: 12px;"><i>Student at Ivan Franko National University of Lviv</i></h5>
 </div>
 
-<h2>🐱‍👤 Stats </h2>
+<h2>👽 Stats </h2>
 <div align="center">
   <img width="650px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsh51" alt="GitHub Stats"/>
   </br>
