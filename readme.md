@@ -13,7 +13,7 @@
   <img width="322px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsh51" alt="GitHubLang Stats"/>
   <img width="322px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vsh51" alt="GitHubLang Stats"/>
   </br>
-  <img width="650px" src="https://leetcard.jacoblin.cool/vsh51?font=Karma" alt="LeetCode Stats"/>
+  <img width="650px" src="https://leetcard.jacoblin.cool/vsh51" alt="LeetCode Stats"/>
 </div>
 
 <h2>🗃️ Technologies </h2>
